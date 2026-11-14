@@ -1,3 +1,5 @@
 # Ignore large datasets
 *.csv
 *.joblib
+# CatBoost training artifacts
+catboost_info/

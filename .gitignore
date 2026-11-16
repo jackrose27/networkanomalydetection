@@ -3,3 +3,4 @@
 *.joblib
 # CatBoost training artifacts
 catboost_info/
+.DS_Store
